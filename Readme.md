@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/f444db6e-6813-41ed-9f87-739a92989abb
 
 
 Source:
-#
 Left: https://www.pexels.com/photo/woman-lying-on-a-bathtub-7278795/
 
 Center: https://www.pexels.com/photo/woman-wearing-black-top-and-blue-denim-bottoms-2010877/
