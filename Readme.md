@@ -29,3 +29,9 @@ Source1: https://www.pexels.com/video/a-woman-in-the-corner-area-dancing-in-pose
 https://github.com/user-attachments/assets/7b30928a-eca6-4cbc-ac12-b4ab9b64f2fb
 #
 Source2: https://www.pexels.com/video/woman-massaging-her-face-with-jade-roller-6933178/
+#
+
+## Future Plans
+- [ ] Release demo code and pretrained weights on 300W-LP dataset
+- [ ] Release evaluation code on AFLW2000 dataset
+- [ ] Release training code on 300W-LP dataset
