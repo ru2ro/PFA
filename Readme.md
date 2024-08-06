@@ -1,17 +1,17 @@
 # Pose-fused Face Alignment
 ![graphical_abstract](https://github.com/user-attachments/assets/39639ffb-4648-446d-9d7d-c9d233cc30c1)
 
+## Demo
+### Run Heatmap Regression on Test Images
+
+1. Download Models [Google Drive](https://drive.google.com/file/d/1HS7TMExYlJHc4ojrwrQ48BYE60yxwCmb/view?usp=sharing) and put it in ```./ckpt``` directory.
+2. Run test_inputpose_heatmap.py
+#
 
 ## Example
 ### Pose-fused 3D Heatmap Regression
 
 https://github.com/user-attachments/assets/f444db6e-6813-41ed-9f87-739a92989abb
-#
-Run Heatmap Regression on Test Images
-
-1. Download Models [Google Drive](https://drive.google.com/file/d/1HS7TMExYlJHc4ojrwrQ48BYE60yxwCmb/view?usp=sharing) and put it in ```./ckpt``` directory.
-2. Run test_inputpose_heatmap.py
-#
 
 Source:
 #
