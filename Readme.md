@@ -13,6 +13,11 @@
 
 https://github.com/user-attachments/assets/f444db6e-6813-41ed-9f87-739a92989abb
 
+Brighter: High Probability of Sparse Facial Landmark
+
+LeftBottom: Input Pose
+#
+
 Source:
 #
 Left: https://www.pexels.com/photo/woman-lying-on-a-bathtub-7278795/
